@@ -7,8 +7,8 @@ syntax match rustOperator ">=" conceal cchar=≥
 syntax match rustOperator "!=" conceal cchar=≢
 syntax match rustOperator "!=" conceal cchar=≢
 syntax match rustOperator "!=" conceal cchar=≢
-syntax match rustOperator "=>" conceal cchar=⇨
-syntax match rustOperator "->" conceal cchar=→
+syntax match rustOperator "=>" conceal cchar=🡆
+syntax match rustOperator "->" conceal cchar=🡺
 
 hi link rustOperator Operator
 hi link rustStatement Statement
